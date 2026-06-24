@@ -1,0 +1,34 @@
+.venv/
+.venv312/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+*.pot
+*.mo
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Python environment
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Generated data and models
+dataset/
+models/
+reports/
+visualizations/
+
+# Streamlit
+.streamlit/
+
+# IDE files
+.vscode/
+.ipynb_checkpoints/
